@@ -1,0 +1,23 @@
+body {
+  height: 100%;
+  background-color: rgb(41, 175, 209);
+  
+}
+
+
+
+.input{
+  background-color: rgb(95, 87, 78);
+  color: rgb(255, 255, 255);
+  margin: 10px 5px;
+  width: 25px 25px;
+  padding: 5px 5px;
+  
+}
+.submit{
+  background-color: rgb(42, 209, 238);
+  color: rgb(15, 14, 14);
+  margin: 10px 5px;
+  width: 25px 25px;
+  padding: 5px 5px;
+}
